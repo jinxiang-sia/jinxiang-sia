@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/107192817/173272064-60a7f305-d285-4d2e-b49f-c6fcb3cf65e8.png)
+![code](https://user-images.githubusercontent.com/107192817/173275173-bb2527c7-3913-4528-94ca-6455a2b051a0.png)
 
 <!---
 jinxiang-sia/jinxiang-sia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
